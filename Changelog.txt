@@ -1,0 +1,9 @@
+Geplant: (INC Rx), (DEC Rx), (LOAD Rx, [Adresse]), (STORE Rx, [Adresse]), NOP, (CLEAR Rx)
+
+Programmiert: (MOV Rx, [Wert]), (ADD Rx, Ry), (JMP [Adresse])
+
+Arithmetik befehle fixen.
+
+
+
+
