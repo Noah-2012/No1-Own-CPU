@@ -44,5 +44,14 @@
   If not, the address is passed through. Then there is the PC_SET output, which passes the specified address to the counter. 
   The PC_C_L tells the counter whether it should continue counting normally or load a specified value.
 
+## The 8 (I/O) Ports
+  Since my CPU is still in beta, the 8 (I/O) ports are only connected to the 8 main registers. 
+  These are located on pins REG1R to REG8R. REG#R stands for Register # Read.
+  Here's an image:
+
+  ![REG#R_Ports](images/pic3.png)
+
+  
+
   
 
