@@ -58,7 +58,7 @@
 
   Here are the RAM Banks and the Controller:
 
-  1[RAM](images/pic5.png)
+  ![RAM](images/pic5.png)
 
   
 
