@@ -15,9 +15,9 @@
       <li><a href="#my-cpu-is-similar-to-a-risc-cpu">- Specs</a></li>
       <li><a href="#wer_controller-write-enable-register-controller">  - WER_CONTROLLER</a></li>
       <li><a href="#the-8-io-ports">  - 8 I/O Ports</a></li>
-      <a href="#more-pictures">- More Pictures</a><br>
-      <a href="#thanks-and-credits">- Thanks / Credits</a><br>
-      <a href="#downloads-and-my-website">- Downloads / My Website</a><br>
+      <li><a href="#more-pictures">- More Pictures</a></li>
+      <li><a href="#thanks-and-credits">- Thanks / Credits</a></li>
+      <li><a href="#downloads-and-my-website">- Downloads / My Website</a></li>
     </ul>
   </p>
 </details>
