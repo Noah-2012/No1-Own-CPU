@@ -76,7 +76,14 @@
   Here is the Logisim Evolution GitHub: [Here](https://github.com/logisim-evolution/logisim-evolution)
 
   This project I created should continue, and ideally, have several versions. 
-  So maybe leave <span style="color: yellow; font-size: 1.5em;">Star</span> and feel free to <span style="color: green; font-size: 1.5em;">Fork</span> it. Thank you guys.
+  So maybe leave **Star** and feel free to **Fork** it. Thank you guys.
 
-  
+## Downloads and my Website
+
+  - Downloads (3.9.0):
+      - [Mac OS](https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.9.0/logisim-evolution-3.9.0-x86_64.dmg)
+      - [Windows](https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.9.0/logisim-evolution-3.9.0-x86_64.msi)
+      - [Linux](https://github.com/logisim-evolution/logisim-evolution/releases/download/v3.9.0/logisim-evolution_3.9.0_amd64.deb)
+   
+  - [My Website](https://noah-2012.github.io/pp/)
 
