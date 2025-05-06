@@ -19,4 +19,5 @@
   - 1 ROM input for Instructions
 
 ## WER_CONTROLLER (Write Enable Register Controller)
+![WER_CONTROLLER1](images/pic1.png)
 
