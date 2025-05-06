@@ -18,5 +18,5 @@
   - 1 Clock Input (Soon with its own clock)
   - 1 ROM input for Instructions
 
-## WER_CONTROLLER (Write Enable Register Controlle)
+## WER_CONTROLLER (Write Enable Register Controller)
 
