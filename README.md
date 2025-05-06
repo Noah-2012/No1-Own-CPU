@@ -26,3 +26,9 @@ Here's a picture:
 
   ![WER_CONTROLLER1](images/pic1.png)
 
+In the picture, you can see the inputs REGID1 to REGID8, 
+which stand for Register Instruction Decoder. 
+These are the inputs of the instruction decoder. 
+The outputs are WER1 to WER8 and REG1 to REG8. 
+WER stands for Write Enable Register, and REG stands for Register.
+
