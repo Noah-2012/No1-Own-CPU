@@ -11,12 +11,7 @@
 <details>
   <summary><strong>Wie funktioniert meine CPU?</strong></summary>
   <p>
-    - [Specs](#my-cpu-is-similar-to-a-risc-cpu)
-      - [WER_CONTROLLER](#wer_controller-write-enable-register-controller)
-      - [8 I/O Ports](#the-8-io-ports)
-    - [More Pictures](#more-pictures)
-    - [Thanks / Credits](#thanks-and-credits)
-    - [Downloads / My Website](#downloads-and-my-website)
+    [Specs](#my-cpu-is-similar-to-a-risc-cpu)
   </p>
 </details>
 
