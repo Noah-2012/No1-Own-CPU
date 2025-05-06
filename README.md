@@ -51,7 +51,10 @@
 
   ![REG#R_Ports](images/pic3.png)
 
-  
+## More pictures
+  This is the Main Place from the CPU:
+
+  ![CPU_MAIN](images/pic4.png)
 
   
 
