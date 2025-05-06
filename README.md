@@ -56,5 +56,9 @@
 
   ![CPU_MAIN](images/pic4.png)
 
+  Here are the RAM Banks and the Controller:
+
+  1[RAM](images/pic5.png)
+
   
 
