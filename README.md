@@ -6,6 +6,7 @@
   - [8 I/O Ports](#the-8-io-ports)
 - [More Pictures](#more-pictures)
 - [Thanks / Credits](#thanks-and-credits)
+- [Downloads / My Website](#downloads-and-my-website)
 
 ## My CPU is similar to a RISC CPU
 - SPECS:
@@ -66,6 +67,16 @@
   Here are the RAM Banks and the Controller:
 
   ![RAM](images/pic5.png)
+
+---
+
+## Thanks and Credits
+
+  Thanks to the team at Logisim Evolution for making this all possible. 
+  Here is the Logisim Evolution GitHub: [Here](https://github.com/logisim-evolution/logisim-evolution)
+
+  This project I created should continue, and ideally, have several versions. 
+  So maybe leave <span style="color: yellow; font-size: 1.5em;">Star</span> and feel free to <span style="color: green; font-size: 1.5em;">Fork</span> it. Thank you guys.
 
   
 
