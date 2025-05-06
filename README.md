@@ -39,5 +39,10 @@
 
   ![WER_CONTROLLER2](images/pic2.png)
 
+  This has two inputs and two outputs. The first input, PC_SET_READY, is used to tell the logic to pass the PS_SET_IN value.
+  Then it checks whether the given value is the command itself (because that was a bug). 
+  If not, the address is passed through. Then there is the PC_SET output, which passes the specified address to the counter. 
+  The PC_C_L tells the counter whether it should continue counting normally or load a specified value.
+
   
 
