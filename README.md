@@ -32,3 +32,12 @@
   The outputs are WER1 to WER8 and REG1 to REG8. 
   WER stands for Write Enable Register, and REG stands for Register.
 
+  ---
+
+  To ensure that the data is correctly routed to the PC (Program Counter) 
+  so that a new value can be loaded, we use this part of the WER_CONTROLLER:
+
+  ![WER_CONTROLLER2](images/pic2.png)
+
+  
+
