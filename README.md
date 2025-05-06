@@ -1,5 +1,8 @@
 # No1-Own-CPU
 
+## Directory
+
+
 ## My CPU is similar to a RISC CPU
 - SPECS:
   - 16 Registers:
