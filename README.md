@@ -13,7 +13,7 @@
   - 1 Write Enable Register Controller ([Explained Below](#wer_controller-write-enable-register-controller))
   - 1 RAM controller and two RAM banks with 256 bytes each
   - 1 lightweight ALU
-  - 8 I/O Ports (Explained Below)
+  - 8 I/O Ports ([Explained Below](#the-8-io-ports))
   - 1 CR (Complete Reset)
   - 1 Clock Input (Soon with its own clock)
   - 1 ROM input for Instructions
