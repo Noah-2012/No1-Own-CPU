@@ -19,16 +19,16 @@
   - 1 ROM input for Instructions
 
 ## WER_CONTROLLER (Write Enable Register Controller)
-The WER_CONTROLLER, also called the Write Enable Register Controller, 
-is designed to enable Write Enable exactly when the clock pulse arrives and then, 
-with a short delay, send the data. 
-Here's a picture:
+  The WER_CONTROLLER, also called the Write Enable Register Controller, 
+  is designed to enable Write Enable exactly when the clock pulse arrives and then, 
+  with a short delay, send the data. 
+  Here's a picture:
 
   ![WER_CONTROLLER1](images/pic1.png)
 
-In the picture, you can see the inputs REGID1 to REGID8, 
-which stand for Register Instruction Decoder. 
-These are the inputs of the instruction decoder. 
-The outputs are WER1 to WER8 and REG1 to REG8. 
-WER stands for Write Enable Register, and REG stands for Register.
+  In the picture, you can see the inputs REGID1 to REGID8, 
+  which stand for Register Instruction Decoder. 
+  These are the inputs of the instruction decoder. 
+  The outputs are WER1 to WER8 and REG1 to REG8. 
+  WER stands for Write Enable Register, and REG stands for Register.
 
