@@ -11,7 +11,7 @@
 <details>
   <summary><strong>Wie funktioniert meine CPU?</strong></summary>
   <p>
-    [Specs](#my-cpu-is-similar-to-a-risc-cpu)
+    <a href="#my-cpu-is-similar-to-a-risc-cpu">Specs</a>
   </p>
 </details>
 
