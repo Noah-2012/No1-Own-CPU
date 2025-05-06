@@ -12,12 +12,12 @@
   <summary><strong>Wie funktioniert meine CPU?</strong></summary>
   <p>
     <ul>
-      <a href="#my-cpu-is-similar-to-a-risc-cpu">- Specs</a>
-      &nbsp;&nbsp;&#8226;<a href="#wer_controller-write-enable-register-controller">  - WER_CONTROLLER</a>
-      &nbsp;&nbsp;&#8226;<a href="#the-8-io-ports">  - 8 I/O Ports</a>
-      <a href="#more-pictures">- More Pictures</a>
-      <a href="#thanks-and-credits">- Thanks / Credits</a>
-      <a href="#downloads-and-my-website">- Downloads / My Website</a>
+      <a href="#my-cpu-is-similar-to-a-risc-cpu">- Specs</a><br>
+      &nbsp;&nbsp;&#8226;<a href="#wer_controller-write-enable-register-controller">  - WER_CONTROLLER</a><br>
+      &nbsp;&nbsp;&#8226;<a href="#the-8-io-ports">  - 8 I/O Ports</a><br>
+      <a href="#more-pictures">- More Pictures</a><br>
+      <a href="#thanks-and-credits">- Thanks / Credits</a><br>
+      <a href="#downloads-and-my-website">- Downloads / My Website</a><br>
     </ul>
   </p>
 </details>
