@@ -19,5 +19,9 @@
   - 1 ROM input for Instructions
 
 ## WER_CONTROLLER (Write Enable Register Controller)
+The WER_CONTROLLER, also called the Write Enable Register Controller, 
+is designed to enable Write Enable exactly when the clock pulse arrives and then, 
+with a short delay, send the data. 
+Here's a picture:
 ![WER_CONTROLLER1](images/pic1.png)
 
