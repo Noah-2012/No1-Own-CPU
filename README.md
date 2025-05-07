@@ -1,6 +1,6 @@
 # No1-Own-CPU
 
-## Directory
+## Table of Content
 - [Specs](#my-cpu-is-similar-to-a-risc-cpu)
   - [WER_CONTROLLER](#wer_controller-write-enable-register-controller)
   - [8 I/O Ports](#the-8-io-ports)
