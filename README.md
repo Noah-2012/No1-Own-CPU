@@ -90,8 +90,3 @@
 
 ---
 
-<details>
-  <summary><strong>Wie funktioniert meine CPU?</strong></summary>
-  <p>Hier steht eine ausführlichere Erklärung, die man erst beim Aufklappen sieht.</p>
-</details>
-
