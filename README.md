@@ -4,6 +4,7 @@
 - [Specs](#my-cpu-is-similar-to-a-risc-cpu)
   - [WER_CONTROLLER](#wer_controller-write-enable-register-controller)
   - [8 I/O Ports](#the-8-io-ports)
+  - [Hex Commands](#hex-commands)
 - [More Pictures](#more-pictures)
 - [Thanks / Credits](#thanks-and-credits)
 - [Downloads / My Website](#downloads-and-my-website)
@@ -18,7 +19,7 @@
     - 1 CC (Command Cache; Especially for the MOV command)
     - 1 P0 (Just 0 in it)
     - 1 P1 (Just 1 in it)
-  - 1 Instruction decoder
+  - 1 Instruction decoder([Explained Below](#hex-commands))
   - 1 Write Enable Register Controller ([Explained Below](#wer_controller-write-enable-register-controller))
   - 1 RAM controller and two RAM banks with 256 bytes each
   - 1 lightweight ALU
