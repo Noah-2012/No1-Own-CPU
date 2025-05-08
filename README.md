@@ -77,7 +77,7 @@
   
   - STORE: a0 Rx [Address] c3
 
-  Opcodes like fa, c1, or c2 are used to disable the instruction flip-flops to prevent errors. They are interrupts, so to speak.
+  Opcodes like fa, c1, (c3) or c2 are used to disable the instruction flip-flops to prevent errors. They are interrupts, so to speak.
   
   ### For the ROM
 
