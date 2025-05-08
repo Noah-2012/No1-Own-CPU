@@ -66,14 +66,14 @@
   The CPU now has seven instructions that can be used: MOV, JMP, ADD, SUB, MUL, and DIV. 
   These can be written to ROM, but only via HEX. Here is a list of the instructions and their corresponding HEX opcodes.
 
-  MOV: 0a Rx [Value] fa
-  ADD: 0b Rx Ry c1
-  SUB: 0c Rx Ry c1
-  MUL: 0d Rx Ry c1
-  DIV: 0e Rx Ry c1
-  JMP: 0f [Address] c2
+  - MOV: 0a Rx [Value] fa
+  - ADD: 0b Rx Ry c1
+  - SUB: 0c Rx Ry c1
+  - MUL: 0d Rx Ry c1
+  - DIV: 0e Rx Ry c1
+  - JMP: 0f [Address] c2
   New:
-  STORE: a0 Rx [Address] c3
+  - STORE: a0 Rx [Address] c3
 
   Opcodes like fa, c1, or c2 are used to disable the instruction flip-flops to prevent errors. They are interrupts, so to speak.
   
