@@ -5,6 +5,7 @@
   - [WER_CONTROLLER](#wer_controller-write-enable-register-controller)
   - [8 I/O Ports](#the-8-io-ports)
   - [Hex Commands](#hex-commands)
+      - [For the ROM](#for-the-rom)
 - [More Pictures](#more-pictures)
 - [Thanks / Credits](#thanks-and-credits)
 - [Downloads / My Website](#downloads-and-my-website)
@@ -60,6 +61,24 @@
   Here's an image:
 
   ![REG#R_Ports](images/pic3.png)
+
+## Hex Commands
+  The CPU now has seven instructions that can be used: MOV, JMP, ADD, SUB, MUL, and DIV. 
+  These can be written to ROM, but only via HEX. Here is a list of the instructions and their corresponding HEX opcodes.
+
+  MOV: 0a Rx [Value] fa
+  ADD: 0b Rx Ry c1
+  SUB: 0c Rx Ry c1
+  MUL: 0d Rx Ry c1
+  DIV: 0e Rx Ry c1
+  JMP: 0f [Address] c2
+  New:
+  STORE: a0 Rx [Address] c3
+
+  Opcodes like fa, c1, or c2 are used to disable the instruction flip-flops to prevent errors. They are interrupts, so to speak.
+  
+  ### For the ROM
+
 
 ## More pictures
   This is the Main Place from the CPU:
