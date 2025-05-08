@@ -72,7 +72,9 @@
   - MUL: 0d Rx Ry c1
   - DIV: 0e Rx Ry c1
   - JMP: 0f [Address] c2
-  New:
+
+  A new Command is the STORE Opcode:
+  
   - STORE: a0 Rx [Address] c3
 
   Opcodes like fa, c1, or c2 are used to disable the instruction flip-flops to prevent errors. They are interrupts, so to speak.
